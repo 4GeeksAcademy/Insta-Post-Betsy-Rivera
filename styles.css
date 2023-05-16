@@ -1,0 +1,27 @@
+
+.post {
+    width: 400px;
+    height: 600px
+}
+
+.post-header { 
+    display: flex;
+    justify-content: space-between;
+}
+.header-content {
+    display: flex;
+    align-items: center;
+}
+
+.header-text {
+    margin-left: 20px;
+}
+.html-icon {
+    transform: scale(1.9);
+}
+
+/* .lavender-image {
+    width: 400px;
+    height: 250px
+
+} */

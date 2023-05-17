@@ -1,7 +1,7 @@
 
-.post {
-    width: 400px;
-    height: 600px
+body {
+    width: 500px;
+    height: 600px;
 }
 
 .post-header { 
@@ -14,10 +14,38 @@
 }
 
 .header-text {
-    margin-left: 20px;
+    margin-left: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .html-icon {
-    transform: scale(1.9);
+    font-size: 32px;
+    margin-left: 20px
+}
+
+.Hamburger-Dots{
+    font-size: 32px;
+    margin-top: 10px;
+}
+
+
+.Icon-Bar{
+    display: flex;
+    justify-content: space-between;
+    font-size: 32px;
+    margin-top: 10px
+    }
+
+.Likedby-Text{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    margin-top: 20px;
+}
+
+.footer-text{
+    display:flex;
+    justify-content: space-between;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px
 }
 
 /* .lavender-image {
